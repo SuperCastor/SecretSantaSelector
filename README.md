@@ -18,7 +18,7 @@ email2@mail.com;
 email3@mail.com;
 ect ...
 ```
-
+> Add a '\n' at the end of the file, otherwise it will not parse correctly :smile:
 
 
 *By Valentin Porchez Epitech promotion 2023*
