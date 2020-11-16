@@ -8,7 +8,7 @@ To run this project you need to have python 3 installed on your computer
 
 Then you must run the secret_santa.py file with your email list like thats :
 ```bash
-python3 secret_santa.py [YOUR_MAIL_LIST]
+py secret_santa.py [YOUR_MAIL_LIST]
 ```
 
 The email list must be protyped as follows : 
