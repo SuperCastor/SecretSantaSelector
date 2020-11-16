@@ -13,9 +13,9 @@ py secret_santa.py [YOUR_MAIL_LIST]
 
 The email list must be protyped as follows : 
 ```
-email1@mail.com;
-email2@mail.com;
-email3@mail.com;
+email1@mail.com;name1
+email2@mail.com;name2
+email3@mail.com;name3
 ect ...
 ```
 > Add a '\n' at the end of the file, otherwise it will not parse correctly :smile:
