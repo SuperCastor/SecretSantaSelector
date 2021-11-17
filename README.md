@@ -6,11 +6,11 @@ A project wich select randomly the secret santas in a given list
 
 :warning: **Only compatible with a gmail email adresses for the sender (foo@gmail.com)**
 
-To run this project you need to have python 3 installed on your computer
+In order to run this project you need to have Python3 installed on your computer
 
 Then you must run the secret_santa.py file with your email list like thats :
 ```bash
-py secret_santa.py [YOUR_MAIL_LIST]
+py secret_santa.py [YOUR_MAILING_LIST_FILE]
 ```
 
 Then you will be asked the adress and the password of the adress from where the mails will be sent
